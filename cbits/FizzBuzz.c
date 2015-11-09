@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "FizzBuzz.h"
 
 void c_fizzbuzz(unsigned int max) {
   int i;
